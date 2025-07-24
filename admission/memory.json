@@ -1,0 +1,89 @@
+{
+  "long_term_memory": [
+    {
+      "user_input": "hi",
+      "ai_response": "Hello! Welcome to Gandhinagar University.  How can I help you today with your admission inquiries?",
+      "timestamp": "2025-07-23T15:59:01.440261"
+    },
+    {
+      "user_input": "i want to take admission in b tech",
+      "ai_response": "To apply for a B.Tech program, you will need to meet the eligibility requirements (10+2 with Physics, Chemistry, Mathematics (PCM) or equivalent from a recognized board, plus a valid GJUCET score) and then apply through the Admission Committee for Professional Courses (ACPC).  The tuition fee is Rs. 31,300 per semester.  We offer B.Tech programs in several specializations; please specify which program you are interested in to get the intake information.",
+      "timestamp": "2025-07-23T15:59:21.983136"
+    },
+    {
+      "user_input": "Specializations and Intake of that?",
+      "ai_response": "The provided text gives intake information for several B.Tech specializations:\n\n* Computer Science and Engineering: 420\n* Computer Science and Engineering (Cyber Security): 60\n* Computer Science and Engineering (Artificial Intelligence): 120\n* Electronics and Communication Engineering: 60\n* Information Technology: 180\n* Mechanical Engineering: 120\n* Robotics and Automation: 60\n* Energy Engineering: 60\n\nThe document also lists M.Tech specializations and intakes, and other postgraduate programs, but does not specify what \"that\" refers to in your question.  Please clarify which program you are asking about.",
+      "timestamp": "2025-07-23T16:00:07.133095"
+    },
+    {
+      "user_input": "can you tell me which one better for me",
+      "ai_response": "I need more information to determine which B.Tech specialization is best for you.  To advise you, please tell me your interests and career goals.",
+      "timestamp": "2025-07-23T16:00:39.447275"
+    },
+    {
+      "user_input": "i am good at maths and i love computers",
+      "ai_response": "Given your strong math skills and interest in computers, I recommend considering the B.Tech in Computer Engineering or Information Technology programs at Gandhinagar University.  Both programs are highly regarded and offer excellent career prospects.  Computer Engineering delves deeper into the hardware and software aspects of computing, while Information Technology focuses more on software development, networking, and data management.  To help you decide between the two, I encourage you to research the specific curriculum for each specialization on the Gandhinagar University website.  The intake for Computer Engineering is 420 students (including 60 in Cyber Security and 120 in Artificial Intelligence), and for Information Technology, it is 180 students.  Contact the admissions office if you need further assistance.",
+      "timestamp": "2025-07-23T16:01:03.461686"
+    },
+    {
+      "user_input": "can you provide some information about information technology",
+      "ai_response": "The Bachelor of Technology (B.Tech) in Information Technology at Gandhinagar University is a 4-year program with an intake of 180 students.  Admission is managed by the Admission Committee for Professional Courses (ACPC) and requires a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM), along with a passing score on the GUJCET.  The program focuses on software development, networking, and data management.  The tuition fee is Rs. 31,000 per semester, subject to change.  For detailed curriculum information, please visit the Gandhinagar University website.",
+      "timestamp": "2025-07-23T16:02:00.972222"
+    },
+    {
+      "user_input": "what is the location of the university?",
+      "ai_response": "While the provided text doesn't specify the location of Gandhinagar University,  I can tell you that it is located in Gandhinagar, India.  You can find precise address details and directions on the university's official website.",
+      "timestamp": "2025-07-23T16:02:42.213417"
+    },
+    {
+      "user_input": "where is the Gandhinagar University is located ",
+      "ai_response": "Gandhinagar University is located in Gandhinagar, India.  For the precise address and directions, please visit the university's official website.",
+      "timestamp": "2025-07-23T16:03:27.301864"
+    }
+  ],
+  "episodic_memory": {
+    "16dce11c-f150-4c5d-b4cd-2f0a56cf3d7a": [
+      {
+        "user_input": "hi",
+        "ai_response": "Hello! Welcome to Gandhinagar University.  How can I help you today with your admission inquiries?",
+        "timestamp": "2025-07-23T15:59:01.440261"
+      },
+      {
+        "user_input": "i want to take admission in b tech",
+        "ai_response": "To apply for a B.Tech program, you will need to meet the eligibility requirements (10+2 with Physics, Chemistry, Mathematics (PCM) or equivalent from a recognized board, plus a valid GJUCET score) and then apply through the Admission Committee for Professional Courses (ACPC).  The tuition fee is Rs. 31,300 per semester.  We offer B.Tech programs in several specializations; please specify which program you are interested in to get the intake information.",
+        "timestamp": "2025-07-23T15:59:21.983136"
+      },
+      {
+        "user_input": "Specializations and Intake of that?",
+        "ai_response": "The provided text gives intake information for several B.Tech specializations:\n\n* Computer Science and Engineering: 420\n* Computer Science and Engineering (Cyber Security): 60\n* Computer Science and Engineering (Artificial Intelligence): 120\n* Electronics and Communication Engineering: 60\n* Information Technology: 180\n* Mechanical Engineering: 120\n* Robotics and Automation: 60\n* Energy Engineering: 60\n\nThe document also lists M.Tech specializations and intakes, and other postgraduate programs, but does not specify what \"that\" refers to in your question.  Please clarify which program you are asking about.",
+        "timestamp": "2025-07-23T16:00:07.133095"
+      },
+      {
+        "user_input": "can you tell me which one better for me",
+        "ai_response": "I need more information to determine which B.Tech specialization is best for you.  To advise you, please tell me your interests and career goals.",
+        "timestamp": "2025-07-23T16:00:39.447275"
+      },
+      {
+        "user_input": "i am good at maths and i love computers",
+        "ai_response": "Given your strong math skills and interest in computers, I recommend considering the B.Tech in Computer Engineering or Information Technology programs at Gandhinagar University.  Both programs are highly regarded and offer excellent career prospects.  Computer Engineering delves deeper into the hardware and software aspects of computing, while Information Technology focuses more on software development, networking, and data management.  To help you decide between the two, I encourage you to research the specific curriculum for each specialization on the Gandhinagar University website.  The intake for Computer Engineering is 420 students (including 60 in Cyber Security and 120 in Artificial Intelligence), and for Information Technology, it is 180 students.  Contact the admissions office if you need further assistance.",
+        "timestamp": "2025-07-23T16:01:03.461686"
+      },
+      {
+        "user_input": "can you provide some information about information technology",
+        "ai_response": "The Bachelor of Technology (B.Tech) in Information Technology at Gandhinagar University is a 4-year program with an intake of 180 students.  Admission is managed by the Admission Committee for Professional Courses (ACPC) and requires a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM), along with a passing score on the GUJCET.  The program focuses on software development, networking, and data management.  The tuition fee is Rs. 31,000 per semester, subject to change.  For detailed curriculum information, please visit the Gandhinagar University website.",
+        "timestamp": "2025-07-23T16:02:00.972222"
+      },
+      {
+        "user_input": "what is the location of the university?",
+        "ai_response": "While the provided text doesn't specify the location of Gandhinagar University,  I can tell you that it is located in Gandhinagar, India.  You can find precise address details and directions on the university's official website.",
+        "timestamp": "2025-07-23T16:02:42.213417"
+      },
+      {
+        "user_input": "where is the Gandhinagar University is located ",
+        "ai_response": "Gandhinagar University is located in Gandhinagar, India.  For the precise address and directions, please visit the university's official website.",
+        "timestamp": "2025-07-23T16:03:27.301864"
+      }
+    ]
+  },
+  "current_session": "16dce11c-f150-4c5d-b4cd-2f0a56cf3d7a"
+}
