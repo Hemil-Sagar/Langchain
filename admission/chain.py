@@ -26,7 +26,7 @@ langchain.llm_cache = InMemoryCache()
 
 # --- Environment Setup ---
 # Make sure to set your GOOGLE_API_KEY as an environment variable
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY") or 'AIzaSyD9P8s2gzJ23i7RGyDug-PZJlinibPT5Ag'
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY") 
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 

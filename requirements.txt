@@ -28,3 +28,5 @@ pypdf
 
 # for more information 
 # https://python.langchain.com/docs/integrations/document_loaders/
+
+duckduckgo-search
